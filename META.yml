@@ -1,0 +1,17 @@
+---
+name: pod-mode
+abstract: Emacs multimode for cperl in pod verbatim blocks
+version: 
+author:
+  - Steffen Schwigon <ss5@renormalist.net>
+license: gpl_3
+distribution_type: script
+meta-spec:
+  version: 1.3
+  url: http://module-build.sourceforge.net/META-spec-v1.3.html
+generated_by: Steffen Schwigon
+provides:
+  pod-mode:
+    file: pod-mode.el
+    abstract: Emacs multimode for cperl in pod verbatim blocks
+    version: 0.01
